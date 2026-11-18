@@ -60,7 +60,7 @@ export function SiteFooter() {
           <p>
             © {new Date().getFullYear()} Rent &amp; Flatmate Finder ·{" "}
             <span className="whitespace-nowrap">
-              Developed by <span className="font-semibold text-foreground">Sachin Upadhyay</span>
+              Developed by <span className="font-semibold text-foreground">Anumodit Shukla</span>
             </span>
           </p>
           <p>Listing photos courtesy of Unsplash contributors.</p>

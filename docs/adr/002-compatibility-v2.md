@@ -2,7 +2,7 @@
 
 **Status**: Accepted (supersedes the "score on browse with the LLM" part of ADR-001)
 **Date**: 2026-11-16
-**Author**: Sachin Upadhyay
+**Author**: Anumodit Shukla
 
 ## Context
 

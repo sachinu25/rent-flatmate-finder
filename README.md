@@ -2,7 +2,7 @@
 
 **Find your perfect space. Meet your perfect people.**
 
-**Developed by Sachin Upadhyay**
+**Developed by Anumodit Shukla**
 
 A full-stack rental and flatmate discovery platform. Tenants search rooms and flatshares and see an
 explainable **compatibility score** for every home, covering budget, location, move-in timing and lifestyle
@@ -336,7 +336,7 @@ emails; and no secrets in source (environment validated at boot).
 <table>
   <tr>
     <td>
-      <strong>Sachin Upadhyay</strong><br />
+      <strong>Anumodit Shukla</strong><br />
       Full-stack developer, Rent &amp; Flatmate Finder
     </td>
   </tr>
@@ -344,7 +344,7 @@ emails; and no secrets in source (environment validated at boot).
 
 ### About the Developer
 
-Sachin Upadhyay designed and built this version of Rent &amp; Flatmate Finder end to end:
+Anumodit Shukla designed and built this version of Rent &amp; Flatmate Finder end to end:
 
 - **Product &amp; UI:** the design system (light and dark themes), landing page, property discovery, tenant and
   owner dashboards, and the responsive mobile experience
@@ -359,7 +359,7 @@ Sachin Upadhyay designed and built this version of Rent &amp; Flatmate Finder en
 
 ## Credits
 
-- **Developer:** Sachin Upadhyay
+- **Developer:** Anumodit Shukla
 - **Original project:** Anumodit ([@anumodit740](https://github.com/anumodit740)), credited as the author of the
   original codebase on which this version builds
 - **Photography:** listing and hero images from [Unsplash](https://unsplash.com) contributors, used under the Unsplash License
@@ -372,4 +372,4 @@ Sachin Upadhyay designed and built this version of Rent &amp; Flatmate Finder en
 
 Released under the **MIT License**, as declared in `package.json`.
 
-<p align="center"><sub>Rent &amp; Flatmate Finder · Developed by <strong>Sachin Upadhyay</strong></sub></p>
+<p align="center"><sub>Rent &amp; Flatmate Finder · Developed by <strong>Anumodit Shukla</strong></sub></p>

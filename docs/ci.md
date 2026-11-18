@@ -24,4 +24,4 @@ cd frontend && npm run lint && npm run typecheck && npm run build
 
 ---
 
-_Rent & Flatmate Finder — developed by Sachin Upadhyay._
+_Rent & Flatmate Finder — developed by Anumodit Shukla._

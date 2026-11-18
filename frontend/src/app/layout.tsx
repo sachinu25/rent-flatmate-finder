@@ -19,8 +19,8 @@ export const metadata: Metadata = {
   title: { default: "Rent & Flatmate Finder — Find your space. Meet your people.", template: "%s · Rent & Flatmate Finder" },
   description: DESCRIPTION,
   applicationName: "Rent & Flatmate Finder",
-  authors: [{ name: "Sachin Upadhyay" }],
-  creator: "Sachin Upadhyay",
+  authors: [{ name: "Anumodit Shukla" }],
+  creator: "Anumodit Shukla",
   keywords: ["rent", "room for rent", "flatmate", "roommate", "PG", "shared flat", "India"],
   openGraph: {
     type: "website",

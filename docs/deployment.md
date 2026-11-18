@@ -1,6 +1,6 @@
 # Deployment guide
 
-_Rent & Flatmate Finder — developed by Sachin Upadhyay._
+_Rent & Flatmate Finder — developed by Anumodit Shukla._
 
 ## Architecture
 

@@ -242,4 +242,4 @@ composites or by unique constraints were dropped.
 
 ---
 
-_Rent & Flatmate Finder — developed by Sachin Upadhyay._
+_Rent & Flatmate Finder — developed by Anumodit Shukla._
